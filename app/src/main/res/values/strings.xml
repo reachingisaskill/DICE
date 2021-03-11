@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DICE</string>
+    <string name="config_filename">dice_config.json</string>
+
+    <string name="title_activity_main">DICE</string>
+
+    <string name="navigation_drawer_open">Open drawer</string>
+    <string name="navigation_drawer_close">Close drawer</string>
+
+    <string name="nav_header_title">DICE</string>
+    <string name="nav_header_subtitle">Let fate decide</string>
+    <string name="nav_header_desc">Select a probability or make your own</string>
+
+    <string name="nav_item_newedit">Add a roll</string>
+
+    <string name="menu_newedit">newedit</string>
+    <string name="menu_roll">roll</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
